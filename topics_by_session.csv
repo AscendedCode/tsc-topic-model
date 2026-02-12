@@ -1,0 +1,666 @@
+evidence_id,date,inquiry,topic_id,topic_label
+3720,2013-03-05,Private Finance 2,8,8_coop_flowers_britannia_reverend
+3722,2013-05-14,Quantitative easing,8,8_coop_flowers_britannia_reverend
+3721,2013-05-21,Private Finance 2,8,8_coop_flowers_britannia_reverend
+3712,2013-06-18,Project Verde,8,8_coop_flowers_britannia_reverend
+3514,2013-07-16,Quantitative easing,0,0_carney_dr carney_monetary policy_bailey
+3713,2013-09-04,Project Verde,8,8_coop_flowers_britannia_reverend
+10704,2013-09-10,Financial Conduct Authority hearings,8,8_coop_flowers_britannia_reverend
+3714,2013-10-22,Project Verde,8,8_coop_flowers_britannia_reverend
+3492,2013-10-23,Monetary Policy: Forward Guidance,8,8_coop_flowers_britannia_reverend
+3512,2013-10-29,Project Verde,8,8_coop_flowers_britannia_reverend
+3505,2013-11-05,The economics of HS2,30,30_mr osborne_osborne_atter_lewis
+3511,2013-11-06,Project Verde,8,8_coop_flowers_britannia_reverend
+3519,2013-11-12,UK Financial Investments Ltd 2013,0,0_carney_dr carney_monetary policy_bailey
+3523,2013-11-19,Project Verde,8,8_coop_flowers_britannia_reverend
+10700,2013-11-26,Bank of England Inflation Report Hearings: Session 2013-14,0,0_carney_dr carney_monetary policy_bailey
+3545,2013-11-27,EU Financial Regulation,1,1_single market_customs_free trade_professor
+3715,2013-12-03,Project Verde,8,8_coop_flowers_britannia_reverend
+3750,2013-12-09,Autumn Statement 2013,26,26_chote_robert chote_robert_nickell
+3751,2013-12-10,Autumn Statement 2013,12,12_national wealth_wealth fund_national wealth fund_net zero
+3752,2013-12-12,Autumn Statement 2013,30,30_mr osborne_osborne_atter_lewis
+3753,2013-12-17,Autumn Statement 2013,-1,-1_johnson_greensill_business rates_paul johnson
+3716,2014-01-07,Project Verde,8,8_coop_flowers_britannia_reverend
+3610,2014-01-14,OBR: July 2013 Fiscal Sustainability Report,26,26_chote_robert chote_robert_nickell
+10702,2014-01-15,Bank of England Financial Stability Report hearings: Session 2014-15,0,0_carney_dr carney_monetary policy_bailey
+3717,2014-01-21,Project Verde,8,8_coop_flowers_britannia_reverend
+3649,2014-01-22,RBS Independent Lending Review,-1,-1_johnson_greensill_business rates_paul johnson
+3718,2014-01-28,Project Verde,8,8_coop_flowers_britannia_reverend
+3654,2014-01-29,Banks' Lending Practices: Treatment of Businesses in Distress,9,9_smith_overdraft_professor_basic bank
+10703,2014-02-04,Financial Conduct Authority hearings,0,0_carney_dr carney_monetary policy_bailey
+3719,2014-02-11,Project Verde,8,8_coop_flowers_britannia_reverend
+3736,2014-02-25,SME Lending,9,9_smith_overdraft_professor_basic bank
+10825,2014-03-11,Bank of England Foreign Exchange Market Investigation,0,0_carney_dr carney_monetary policy_bailey
+10706,2014-03-11,The economics of currency unions,0,0_carney_dr carney_monetary policy_bailey
+3775,2014-03-12,The costing of pre-election policy proposals,26,26_chote_robert chote_robert_nickell
+3798,2014-03-18,Performance of the Royal Mint,-1,-1_johnson_greensill_business rates_paul johnson
+3812,2014-03-25,Budget 2014,0,0_carney_dr carney_monetary policy_bailey
+3819,2014-03-26,Budget 2014,26,26_chote_robert chote_robert_nickell
+3834,2014-04-01,Budget 2014,-1,-1_johnson_greensill_business rates_paul johnson
+3837,2014-04-03,Budget 2014,30,30_mr osborne_osborne_atter_lewis
+3858,2014-04-08,Budget 2014,-1,-1_johnson_greensill_business rates_paul johnson
+3884,2014-04-29,SME Lending,9,9_smith_overdraft_professor_basic bank
+10710,2014-04-30,"Appointment hearings, Session 2013-14",0,0_carney_dr carney_monetary policy_bailey
+10711,2014-04-30,"Appointment hearings, Session 2013-14",0,0_carney_dr carney_monetary policy_bailey
+3898,2014-05-06,Cost effectiveness of economic and financial sanctions,22,22_sanctions_russia_russian_oil
+3911,2014-05-07,Co-op Governance Review,17,17_wheatley_tracey_martin wheatley_mcdermott
+10712,2014-05-07,"Appointment hearings, Session 2013-14",-1,-1_johnson_greensill_business rates_paul johnson
+3957,2014-06-10,SME Lending,9,9_smith_overdraft_professor_basic bank
+10713,2014-06-11,"Appointment hearings, Session 2014-15",0,0_carney_dr carney_monetary policy_bailey
+3986,2014-06-17,SME Lending,9,9_smith_overdraft_professor_basic bank
+10714,2014-06-18,"Appointment hearings, Session 2014-15",0,0_carney_dr carney_monetary policy_bailey
+10716,2014-06-24,Bank of England Inflation Report Hearings: Session 2014-15,0,0_carney_dr carney_monetary policy_bailey
+10715,2014-06-25,"Appointment hearings, Session 2014-15",0,0_carney_dr carney_monetary policy_bailey
+4034,2014-07-01,SME Lending,9,9_smith_overdraft_professor_basic bank
+4044,2014-07-02,Manipulation of Benchmarks,-1,-1_johnson_greensill_business rates_paul johnson
+4060,2014-07-08,HMRC Business Plan 2014-16,11,11_harra_jim_jim harra_homer
+10718,2014-07-09,"Appointment hearings, Session 2014-15",0,0_carney_dr carney_monetary policy_bailey
+10719,2014-07-15,Bank of England Financial Stability Report hearings: Session 2014-15,0,0_carney_dr carney_monetary policy_bailey
+4100,2014-07-16,SME Lending,-1,-1_johnson_greensill_business rates_paul johnson
+4108,2014-07-21,SME Lending,9,9_smith_overdraft_professor_basic bank
+10720,2014-07-22,"Appointment hearings, Session 2014-15",3,3_hughes_richard hughes_fiscal_richard
+4124,2014-09-02,HM Treasury Annual Report and Accounts 2013-14,2,2_scholar_tom scholar_tom_sir tom
+4135,2014-09-03,Treatment of Financial Services Consumers,9,9_smith_overdraft_professor_basic bank
+10721,2014-09-09,Financial Conduct Authority hearings,17,17_wheatley_tracey_martin wheatley_mcdermott
+10722,2014-09-10,Bank of England Inflation Report Hearings: Session 2014-15,0,0_carney_dr carney_monetary policy_bailey
+4167,2014-10-14,Work of the Tax Assurance Commissioner,13,13_vat_taxes_knight_relief
+4179,2014-10-15,Treatment of Financial Services Consumers,6,6_crime_economic crime_laundering_money laundering
+4194,2014-10-21,UK Financial Investments Ltd,0,0_carney_dr carney_monetary policy_bailey
+4211,2014-10-22,Prudential Regulation Authority Hearings: Session 2014-15,5,5_woods_sam_sam woods_pra
+4226,2014-10-28,Proposals for further Fiscal and Economic Devolution to Scotland,-1,-1_johnson_greensill_business rates_paul johnson
+4239,2014-10-29,Debt Management Office Annual Report and Accounts 2013-14,18,18_robert stheeman_stheeman_sir robert_robert
+4258,2014-11-04,Proposals for further Fiscal and Economic Devolution to Scotland,-1,-1_johnson_greensill_business rates_paul johnson
+4266,2014-11-05,Treatment of Financial Services Consumers,6,6_crime_economic crime_laundering_money laundering
+4294,2014-11-18,Treatment of Financial Services Consumers,9,9_smith_overdraft_professor_basic bank
+4315,2014-11-19,Fair and Effective Markets Review,-1,-1_johnson_greensill_business rates_paul johnson
+10728,2014-11-25,Bank of England Inflation Report Hearings: Session 2014-15,0,0_carney_dr carney_monetary policy_bailey
+4347,2014-11-26,The Payment Systems Regulator,23,23_hannah_nixon_hannah nixon_psr
+4379,2014-12-09,Autumn Statement 2014,0,0_carney_dr carney_monetary policy_bailey
+4382,2014-12-10,Press briefing of information in the Financial Conduct Authority’s 2014/15 Business Plan,-1,-1_johnson_greensill_business rates_paul johnson
+10853,2014-12-11,Autumn Statement 2014,26,26_chote_robert chote_robert_nickell
+4401,2014-12-16,Press briefing of information in the Financial Conduct Authority’s 2014/15 Business Plan,-1,-1_johnson_greensill_business rates_paul johnson
+4413,2014-12-17,Autumn Statement 2014,-1,-1_johnson_greensill_business rates_paul johnson
+4414,2014-12-17,The UK's EU Budget Contributions,30,30_mr osborne_osborne_atter_lewis
+10737,2015-01-06,Bank of England Financial Stability Report hearings: Session 2014-15,0,0_carney_dr carney_monetary policy_bailey
+4434,2015-01-07,Press briefing of information in the Financial Conduct Authority’s 2014/15 Business Plan,16,16_charlotte_charlotte clark_clark_consumer duty
+4463,2015-01-13,Treatment of Financial Services Consumers,9,9_smith_overdraft_professor_basic bank
+10740,2015-01-14,Bank of England Financial Stability Report hearings: Session 2014-15,0,0_carney_dr carney_monetary policy_bailey
+4486,2015-01-20,Proposals for further Fiscal and Economic Devolution to Scotland,-1,-1_johnson_greensill_business rates_paul johnson
+10822,2015-01-21,Bank of England Foreign Exchange Market Investigation,0,0_carney_dr carney_monetary policy_bailey
+4503,2015-01-27,Press briefing of information in the Financial Conduct Authority’s 2014/15 Business Plan,-1,-1_johnson_greensill_business rates_paul johnson
+4517,2015-01-28,Crown Estate Annual Report and Accounts 2013/14,2,2_scholar_tom scholar_tom_sir tom
+10743,2015-02-03,"Appointment hearings, Session 2014-15",2,2_scholar_tom scholar_tom_sir tom
+4543,2015-02-04,Treatment of Financial Services Consumers,6,6_crime_economic crime_laundering_money laundering
+10744,2015-02-10,Financial Conduct Authority hearings,17,17_wheatley_tracey_martin wheatley_mcdermott
+10745,2015-02-24,Bank of England Inflation Report Hearings: Session 2014-15,0,0_carney_dr carney_monetary policy_bailey
+4573,2015-02-25,HM Revenue and Customs and HSBC,11,11_harra_jim_jim harra_homer
+4595,2015-03-03,Bank of England Foreign Exchange Market Investigation,0,0_carney_dr carney_monetary policy_bailey
+10824,2015-03-04,Prudential Regulation Authority Hearings: Session 2014-15,5,5_woods_sam_sam woods_pra
+10747,2015-03-17,"Appointment hearings, Session 2014-15",0,0_carney_dr carney_monetary policy_bailey
+4629,2015-03-23,Budget 2015,-1,-1_johnson_greensill_business rates_paul johnson
+4631,2015-03-24,Budget 2015,-1,-1_johnson_greensill_business rates_paul johnson
+10826,2015-07-14,Bank of England Financial Stability Report Hearings 2015-16,0,0_carney_dr carney_monetary policy_bailey
+10749,2015-07-14,Bank of England Inflation Report Hearings 2015-16,0,0_carney_dr carney_monetary policy_bailey
+4647,2015-07-15,Summer Budget 2015 inquiry,30,30_mr osborne_osborne_atter_lewis
+4671,2015-07-21,Summer Budget 2015 inquiry,26,26_chote_robert chote_robert_nickell
+4697,2015-09-08,UK Financial Investments Ltd Annual Report and Accounts 14-15,0,0_carney_dr carney_monetary policy_bailey
+4710,2015-09-09,Bank of England Bill inquiry,0,0_carney_dr carney_monetary policy_bailey
+4717,2015-09-15,Chair of Office for Budget Responsibility reappointment hearing ,26,26_chote_robert chote_robert_nickell
+10754,2015-09-16,Bank of England Inflation Report Hearings 2015-16,0,0_carney_dr carney_monetary policy_bailey
+4753,2015-10-13,Reappointment of Ian McCafferty to the Monetary Policy Committee hearing,0,0_carney_dr carney_monetary policy_bailey
+4752,2015-10-13,Appointment of Gertjan Vlieghe to the Monetary Policy Committee hearing,0,0_carney_dr carney_monetary policy_bailey
+4780,2015-10-14,Review of scope and performance of Office for Budget Responsibility,-1,-1_johnson_greensill_business rates_paul johnson
+4797,2015-10-20,Bank of England Bill inquiry,0,0_carney_dr carney_monetary policy_bailey
+4815,2015-10-21,Financial Conduct Authority,17,17_wheatley_tracey_martin wheatley_mcdermott
+4841,2015-10-22,Bank of England Bill inquiry,0,0_carney_dr carney_monetary policy_bailey
+4846,2015-10-27,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+4866,2015-10-28,Financial Conduct Authority Practitioner Panels one-off session,-1,-1_johnson_greensill_business rates_paul johnson
+4887,2015-11-03,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+4911,2015-11-04,Review of CMA work on Retail Banking Market one-off session,9,9_smith_overdraft_professor_basic bank
+4932,2015-11-10,HMRC Annual Report and Accounts 2014-15 inquiry,13,13_vat_taxes_knight_relief
+4964,2015-11-17,Prudential Regulation Authority inquiry,5,5_woods_sam_sam woods_pra
+4983,2015-11-18,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+10757,2015-11-24,Bank of England Inflation Report Hearings 2015-16,0,0_carney_dr carney_monetary policy_bailey
+5027,2015-12-01,Comprehensive Spending Review and Autumn Statement 2015 inquiry,20,20_mr philip hammond_mr philip_philip hammond_philip
+5043,2015-12-01,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5072,2015-12-08,Comprehensive Spending Review and Autumn Statement 2015 inquiry,26,26_chote_robert chote_robert_nickell
+5078,2015-12-09,Comprehensive Spending Review and Autumn Statement 2015 inquiry,30,30_mr osborne_osborne_atter_lewis
+5117,2015-12-14,Independent review of report into failure of HBOS inquiry,17,17_wheatley_tracey_martin wheatley_mcdermott
+5135,2015-12-15,Independent review of report into failure of HBOS inquiry,17,17_wheatley_tracey_martin wheatley_mcdermott
+5183,2016-01-06,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5189,2016-01-07,Review of the Office for National Statistics inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+5212,2016-01-12,Appointment of Angela Knight as Chair of the Office for Tax Simplification,13,13_vat_taxes_knight_relief
+5196,2016-01-13,Appointment of Tim Parkes as Chair of Regulatory Decisions Committee,0,0_carney_dr carney_monetary policy_bailey
+5225,2016-01-19,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5245,2016-01-20,Financial Conduct Authority,17,17_wheatley_tracey_martin wheatley_mcdermott
+5273,2016-01-26,Bank of England Financial Stability Report Hearings 2015-16,0,0_carney_dr carney_monetary policy_bailey
+5296,2016-01-27,Valuation Office Agency inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+5298,2016-02-02,UK tax policy and the tax base inquiry,13,13_vat_taxes_knight_relief
+5336,2016-02-03,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5342,2016-02-09,Government Internal Audit Agency inquiry,17,17_wheatley_tracey_martin wheatley_mcdermott
+5379,2016-02-10,HM Treasury Annual Report and Accounts 2014-15 inquiry,2,2_scholar_tom scholar_tom_sir tom
+10762,2016-02-23,Bank of England Inflation Report Hearings 2015-16,0,0_carney_dr carney_monetary policy_bailey
+5455,2016-03-01,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5456,2016-03-02,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5464,2016-03-08,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5497,2016-03-09,Financial Policy Committee re-appointment hearings,-1,-1_johnson_greensill_business rates_paul johnson
+5520,2016-03-22,Budget 2016 inquiry,20,20_mr philip hammond_mr philip_philip hammond_philip
+5526,2016-03-23,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5541,2016-03-24,Budget 2016 inquiry,20,20_mr philip hammond_mr philip_philip hammond_philip
+5553,2016-04-12,Budget 2016 inquiry,20,20_mr philip hammond_mr philip_philip hammond_philip
+5567,2016-04-13,Budget 2016 inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+5589,2016-04-20,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5616,2016-04-26,Financial Conduct Authority,17,17_wheatley_tracey_martin wheatley_mcdermott
+5628,2016-04-27,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5655,2016-05-09,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5675,2016-05-11,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5702,2016-05-24,Financial stability one-off hearing,0,0_carney_dr carney_monetary policy_bailey
+5701,2016-05-24,Bank of England Inflation Report Hearing May 2016,0,0_carney_dr carney_monetary policy_bailey
+5746,2016-06-07,Retail Banking Market Review inquiry,9,9_smith_overdraft_professor_basic bank
+5747,2016-06-08,HMRC Executive Chair and Chief Executive,11,11_harra_jim_jim harra_homer
+5779,2016-06-14,UK tax policy and the tax base inquiry,13,13_vat_taxes_knight_relief
+5833,2016-06-28,UK's future economic relationship with the EU inquiry,1,1_single market_customs_free trade_professor
+10835,2016-06-28,Economic and financial costs and benefits of UK's EU membership,1,1_single market_customs_free trade_professor
+5834,2016-07-05,UK's future economic relationship with the EU inquiry,1,1_single market_customs_free trade_professor
+5947,2016-07-12,Bank of England Financial Stability Report Hearings 2016-17,0,0_carney_dr carney_monetary policy_bailey
+5894,2016-07-13,UK's future economic relationship with the EU inquiry,1,1_single market_customs_free trade_professor
+5906,2016-07-19,Appointment of Deputy Governor for Prudential Regulation ,5,5_woods_sam_sam woods_pra
+10770,2016-07-20,Appointment of the CEO of Financial Conduct Authority,27,27_bailey_andrew bailey_randell_charles randell
+5960,2016-09-06,UK tax policy and the tax base inquiry,13,13_vat_taxes_knight_relief
+5971,2016-09-07,Bank of England Inflation Report Hearing August 2016,0,0_carney_dr carney_monetary policy_bailey
+5976,2016-09-08,Sir Charles Bean appointment to Budget Responsibility Committee,3,3_hughes_richard hughes_fiscal_richard
+6061,2016-10-11,Appointment of Michael Saunders to the Monetary Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+6060,2016-10-11,Appointment of Anil Kashyap to the Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+6079,2016-10-12,HM Treasury: Report and Accounts 2015 – 2016,2,2_scholar_tom scholar_tom_sir tom
+6112,2016-10-18,Retail Banking Market Review inquiry,9,9_smith_overdraft_professor_basic bank
+6123,2016-10-19,The work of the Chancellor of the Exchequer inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+6034,2016-10-25,UK tax policy and the tax base inquiry,13,13_vat_taxes_knight_relief
+6166,2016-10-27,"Tax credits, fraud and error inquiry",8,8_coop_flowers_britannia_reverend
+6201,2016-11-01,Retail Banking Market Review inquiry,9,9_smith_overdraft_professor_basic bank
+6228,2016-11-03,Access to basic retail financial services inquiry,9,9_smith_overdraft_professor_basic bank
+6247,2016-11-08,Financial Conduct Authority inquiry,27,27_bailey_andrew bailey_randell_charles randell
+6294,2016-11-15,Bank of England Inflation Report Hearing November 2016,0,0_carney_dr carney_monetary policy_bailey
+6336,2016-11-16,UK Financial Investments annual reports and accounts 2015-16,0,0_carney_dr carney_monetary policy_bailey
+6375,2016-11-29,Autumn Statement 2016,-1,-1_johnson_greensill_business rates_paul johnson
+6384,2016-11-30,Autumn Statement 2016,-1,-1_johnson_greensill_business rates_paul johnson
+6415,2016-12-06,Autumn Statement 2016,1,1_single market_customs_free trade_professor
+6428,2016-12-07,Housing Policy inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+6453,2016-12-12,Autumn Statement 2016,20,20_mr philip hammond_mr philip_philip hammond_philip
+6482,2016-12-13,Autumn Statement 2016,28,28_national wealth_wealth fund_national wealth fund_sir john
+6497,2016-12-14,Prudential Regulation Authority inquiry,5,5_woods_sam_sam woods_pra
+6511,2016-12-19,Access to basic retail financial services inquiry,9,9_smith_overdraft_professor_basic bank
+6524,2017-01-10,UK's future economic relationship with the EU inquiry,1,1_single market_customs_free trade_professor
+6546,2017-01-11,Bank of England Financial Stability Report Hearings 2016-17,0,0_carney_dr carney_monetary policy_bailey
+6556,2017-01-17,EU Insurance Regulation inquiry,16,16_charlotte_charlotte clark_clark_consumer duty
+6592,2017-01-18,Work of the Payment Systems Regulator inquiry,23,23_hannah_nixon_hannah nixon_psr
+6600,2017-01-24,UK's future economic relationship with the EU inquiry,1,1_single market_customs_free trade_professor
+6616,2017-01-25,EU Insurance Regulation inquiry,16,16_charlotte_charlotte clark_clark_consumer duty
+6674,2017-02-07,UK's future economic relationship with the EU inquiry,1,1_single market_customs_free trade_professor
+6720,2017-02-21,Bank of England Inflation Report Hearing February 2017,0,0_carney_dr carney_monetary policy_bailey
+6732,2017-02-22,EU Insurance Regulation inquiry,5,5_woods_sam_sam woods_pra
+6755,2017-02-28,Appointment of the Deputy Governor for Markets and Banking,0,0_carney_dr carney_monetary policy_bailey
+6785,2017-03-01,Effectiveness and impact of post-2008 UK monetary policy,1,1_single market_customs_free trade_professor
+6792,2017-03-07,Work of the Court of the Bank of England inquiry,0,0_carney_dr carney_monetary policy_bailey
+6816,2017-03-13,Budget 2017 inquiry,3,3_hughes_richard hughes_fiscal_richard
+10855,2017-03-15,Budget 2017 inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+6914,2017-04-18,Budget 2017 inquiry,20,20_mr philip hammond_mr philip_philip hammond_philip
+6952,2017-09-14,HMRC Annual Report and Accounts inquiry ,11,11_harra_jim_jim harra_homer
+6977,2017-10-11,The work of the Chancellor of the Exchequer,20,20_mr philip hammond_mr philip_philip hammond_philip
+7010,2017-10-17,"Appointment of Sir Dave Ramsden as Deputy Governor for Markets and Banking, Bank of England",0,0_carney_dr carney_monetary policy_bailey
+7015,2017-10-17,The work of the Bank of England inquiry,0,0_carney_dr carney_monetary policy_bailey
+7009,2017-10-17,Appointment of Professor Silvana Tenreyro to the Monetary Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+7048,2017-10-18,Student Loans inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+7108,2017-10-24,Women in finance inquiry,19,19_gender_pay gap_diversity_gender pay
+7062,2017-10-25,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+7107,2017-10-31,The work of the Financial Conduct Authority,27,27_bailey_andrew bailey_randell_charles randell
+7142,2017-11-01,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+7165,2017-11-07,The work of the National Infrastructure Commission inquiry,28,28_national wealth_wealth fund_national wealth fund_sir john
+7197,2017-11-14,"Household finances: income, saving and debt inquiry",18,18_robert stheeman_stheeman_sir robert_robert
+7204,2017-11-15,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+7226,2017-11-21,Bank of England Inflation Reports inquiry,0,0_carney_dr carney_monetary policy_bailey
+7256,2017-11-28,Budget Autumn 2017 inquiry,20,20_mr philip hammond_mr philip_philip hammond_philip
+7267,2017-11-29,Budget Autumn 2017 inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+7270,2017-11-30,Budget Autumn 2017 inquiry,3,3_hughes_richard hughes_fiscal_richard
+7315,2017-12-05,Budget Autumn 2017 inquiry,13,13_vat_taxes_knight_relief
+7322,2017-12-06,Budget Autumn 2017 inquiry,20,20_mr philip hammond_mr philip_philip hammond_philip
+7421,2017-12-13,Student Loans inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+7401,2017-12-19,Student Loans inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+7407,2017-12-20,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+7435,2018-01-09,Women in finance inquiry,19,19_gender_pay gap_diversity_gender pay
+7465,2018-01-16,The work of the Prudential Regulation Authority inquiry,5,5_woods_sam_sam woods_pra
+7509,2018-01-23,The work of the Payment Systems Regulator inquiry,23,23_hannah_nixon_hannah nixon_psr
+7499,2018-01-24,HM Treasury Annual Report and Accounts inquiry,2,2_scholar_tom scholar_tom_sir tom
+7525,2018-01-30,RBS's Global Restructuring Group and its treatment of SMEs inquiry,14,14_ai_venture_mcewan_ross mcewan
+7553,2018-01-31,Childcare inquiry,2,2_scholar_tom scholar_tom_sir tom
+7565,2018-02-06,Appointment of Elisabeth Stheeman to the Bank of England Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+7580,2018-02-07,The work of the Financial Conduct Authority,27,27_bailey_andrew bailey_randell_charles randell
+7612,2018-02-20,Appointment of Charles Randell as Chair of the Financial Conduct Authority,27,27_bailey_andrew bailey_randell_charles randell
+7619,2018-02-21,Bank of England Inflation Reports inquiry,0,0_carney_dr carney_monetary policy_bailey
+7657,2018-02-27,Women in finance inquiry,19,19_gender_pay gap_diversity_gender pay
+7681,2018-02-28,"Household finances: income, saving and debt inquiry",18,18_robert stheeman_stheeman_sir robert_robert
+7698,2018-03-06,SME Finance inquiry,14,14_ai_venture_mcewan_ross mcewan
+7699,2018-03-07,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+7731,2018-03-13,"Household finances: income, saving and debt inquiry",18,18_robert stheeman_stheeman_sir robert_robert
+7756,2018-03-20,Spring Statement 2018,3,3_hughes_richard hughes_fiscal_richard
+7820,2018-03-27,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+7811,2018-03-28,Women in finance inquiry,19,19_gender_pay gap_diversity_gender pay
+7831,2018-04-18,Re-appointment of Martin Taylor to the Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+7830,2018-04-18,Re-appointment of Donald Kohn to the Financial Policy Committee,-1,-1_johnson_greensill_business rates_paul johnson
+7829,2018-04-18,Re-appointment of Alex Brazier to the Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+7855,2018-04-24,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+7868,2018-04-25,The work of the Chancellor of the Exchequer,20,20_mr philip hammond_mr philip_philip hammond_philip
+7900,2018-05-01,Digital Currencies inquiry,32,32_crypto_blockchain_bitcoin_taylor
+7906,2018-05-02,Service Disruption at TSB inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+7942,2018-05-08,"Household finances: income, saving and debt inquiry",18,18_robert stheeman_stheeman_sir robert_robert
+7954,2018-05-09,SME Finance inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+7977,2018-05-15,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+7975,2018-05-16,SME Finance inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+7974,2018-05-16,Maxwellisation inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+8009,2018-05-22,Re-appointment of Dr Gertjan Vlieghe to the Monetary Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+8010,2018-05-22,Bank of England Inflation Reports inquiry,0,0_carney_dr carney_monetary policy_bailey
+8027,2018-05-23,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+8026,2018-05-23,SME Finance inquiry,14,14_ai_venture_mcewan_ross mcewan
+8099,2018-06-05,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+8064,2018-06-06,Service Disruption at TSB inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+8087,2018-06-12,Work of the Valuation Office Agency inquiry,2,2_scholar_tom scholar_tom_sir tom
+8085,2018-06-13,The work of the Financial Conduct Authority,27,27_bailey_andrew bailey_randell_charles randell
+8153,2018-06-19,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+8147,2018-06-20,Digital Currencies inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+8164,2018-06-26,"Appointment of Bradley Fried as Chair of Court, Bank of England",0,0_carney_dr carney_monetary policy_bailey
+8165,2018-06-26,Appointment of Professor Jonathan Haskel to the Monetary Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+8174,2018-06-27,SME Finance inquiry,2,2_scholar_tom scholar_tom_sir tom
+8199,2018-07-03,VAT inquiry,13,13_vat_taxes_knight_relief
+8216,2018-07-04,Digital Currencies inquiry,32,32_crypto_blockchain_bitcoin_taylor
+8215,2018-07-04,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+8228,2018-07-10,"Andy King, Nominated Member of the Budget Responsibility Committee",3,3_hughes_richard hughes_fiscal_richard
+8264,2018-07-11,The work of the Prudential Regulation Authority inquiry,5,5_woods_sam_sam woods_pra
+8288,2018-07-17,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+8278,2018-07-18,Independent Review of the Financial Ombudsman Service,21,21_ombudsman_thomas_wayman_caroline wayman
+8327,2018-09-04,Bank of England Inflation Reports inquiry,0,0_carney_dr carney_monetary policy_bailey
+8365,2018-09-11,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+8364,2018-09-12,Appointment of Jill May as an external member of the Prudential Regulation Committee,5,5_woods_sam_sam woods_pra
+8363,2018-09-12,Appointment of Julia Black as external member of the Prudential Regulation Committee,6,6_crime_economic crime_laundering_money laundering
+8395,2018-10-09,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+8411,2018-10-10,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+8438,2018-10-16,Consumers’ Access to Financial Services inquiry,24,24_resilience_lyndon_post office_mental
+8439,2018-10-17,The re-appointment of Sir Jon Cunliffe as Deputy Governor for Financial Stability at the Bank of England inquiry,0,0_carney_dr carney_monetary policy_bailey
+8462,2018-10-23,SME Finance inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+8472,2018-10-24,The Work of the Treasury inquiry,2,2_scholar_tom scholar_tom_sir tom
+8511,2018-10-30,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+8518,2018-10-31,Budget 2018 inquiry,3,3_hughes_richard hughes_fiscal_richard
+8527,2018-11-01,Budget 2018 inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+8549,2018-11-05,Budget 2018 inquiry,20,20_mr philip hammond_mr philip_philip hammond_philip
+8574,2018-11-13,Work of the Banking Standards Board inquiry,0,0_carney_dr carney_monetary policy_bailey
+8612,2018-11-14,Consumers’ Access to Financial Services inquiry,24,24_resilience_lyndon_post office_mental
+8618,2018-11-20,Bank of England Inflation Reports inquiry,0,0_carney_dr carney_monetary policy_bailey
+8624,2018-11-21,HMRC Annual Report and Accounts inquiry ,11,11_harra_jim_jim harra_homer
+8680,2018-11-27,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+8703,2018-12-03,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+8709,2018-12-04,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+8731,2018-12-05,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+8714,2018-12-05,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+8761,2018-12-11,Consumers’ Access to Financial Services inquiry,24,24_resilience_lyndon_post office_mental
+8832,2019-01-08,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+8851,2019-01-15,The work of the Financial Conduct Authority,27,27_bailey_andrew bailey_randell_charles randell
+8858,2019-01-16,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+8891,2019-01-22,Independent Review of the Financial Ombudsman Service,21,21_ombudsman_thomas_wayman_caroline wayman
+8892,2019-01-23,The work of the Prudential Regulation Authority inquiry,5,5_woods_sam_sam woods_pra
+8912,2019-01-29,The UK's economic relationship with the European Union inquiry,1,1_single market_customs_free trade_professor
+8942,2019-01-30,Tax enquiries and resolution of tax disputes inquiry,11,11_harra_jim_jim harra_homer
+8967,2019-02-05,Consumers’ Access to Financial Services inquiry,24,24_resilience_lyndon_post office_mental
+8975,2019-02-06,VAT inquiry,13,13_vat_taxes_knight_relief
+9008,2019-02-12,The work of the Payment Systems Regulator inquiry,23,23_hannah_nixon_hannah nixon_psr
+9006,2019-02-13,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+9030,2019-02-26,Bank of England Inflation Reports inquiry,0,0_carney_dr carney_monetary policy_bailey
+9045,2019-02-27,Consumers’ Access to Financial Services inquiry,24,24_resilience_lyndon_post office_mental
+9060,2019-03-05,Appointment of Kathryn Cearns as Chair of the Office of Tax Simplification inquiry,13,13_vat_taxes_knight_relief
+9119,2019-03-12,Access to Cash Review inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+9130,2019-03-19,Spring Statement 2019 inquiry,3,3_hughes_richard hughes_fiscal_richard
+9137,2019-03-20,Spring Statement 2019 inquiry,15,15_sunak_rishi sunak_rishi_rachel reeves
+9157,2019-03-26,The work of the Adjudicator’s Office inquiry,11,11_harra_jim_jim harra_homer
+9187,2019-04-02,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+9189,2019-04-03,Spring Statement 2019 inquiry,7,7_torsten_torsten bell_bell_fiscal
+9225,2019-04-24,Spring Statement 2019 inquiry,15,15_sunak_rishi sunak_rishi_rachel reeves
+9302,2019-04-30,Independent Review of the Co-Operative Bank inquiry,0,0_carney_dr carney_monetary policy_bailey
+9250,2019-05-01,Work of the Court of the Bank of England inquiry,0,0_carney_dr carney_monetary policy_bailey
+9290,2019-05-07,The impact of Business Rates on business inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+9298,2019-05-08,The work of the Debt Management Office inquiry,18,18_robert stheeman_stheeman_sir robert_robert
+9310,2019-05-14,The work of the National Infrastructure Commission inquiry,28,28_national wealth_wealth fund_national wealth fund_sir john
+9306,2019-05-15,Economic Crime inquiry,6,6_crime_economic crime_laundering_money laundering
+9348,2019-05-22,The impact of Business Rates on business inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+9360,2019-06-04,The impact of Business Rates on business inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+9366,2019-06-05,The effectiveness of gender pay gap reporting inquiry,19,19_gender_pay gap_diversity_gender pay
+9396,2019-06-11,"Re-appointment of Ben Broadbent as Deputy Governor for Monetary Policy, Bank of England inquiry",0,0_carney_dr carney_monetary policy_bailey
+9403,2019-06-12,Women in finance inquiry,19,19_gender_pay gap_diversity_gender pay
+9430,2019-06-18,Re-appointment of Professor Anil Kashyap to the Financial Policy Committee inquiry,0,0_carney_dr carney_monetary policy_bailey
+10807,2019-06-18,Re-appointment of Professor Anil Kashyap to the Financial Policy Committee inquiry,0,0_carney_dr carney_monetary policy_bailey
+9438,2019-06-19,The impact of Business Rates on business inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+9462,2019-06-25,The work of the Financial Conduct Authority,27,27_bailey_andrew bailey_randell_charles randell
+9463,2019-06-26,Bank of England Inflation Reports inquiry,0,0_carney_dr carney_monetary policy_bailey
+9502,2019-07-02,Decarbonisation of the UK Economy and Green Finance inquiry,12,12_national wealth_wealth fund_national wealth fund_net zero
+9494,2019-07-03,Work of the Financial Services Compensation Scheme inquiry,24,24_resilience_lyndon_post office_mental
+9534,2019-07-09,IT failures in the financial services sector inquiry,24,24_resilience_lyndon_post office_mental
+9532,2019-07-10,The impact of Business Rates on business inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+9569,2019-07-17,IT failures in the financial services sector inquiry,24,24_resilience_lyndon_post office_mental
+9599,2019-07-24,IT failures in the financial services sector inquiry,24,24_resilience_lyndon_post office_mental
+9616,2019-09-04,Bank of England Inflation Reports inquiry,0,0_carney_dr carney_monetary policy_bailey
+9637,2019-09-09,Spending Round 2019 inquiry,3,3_hughes_richard hughes_fiscal_richard
+9653,2019-10-08,Decarbonisation of the UK Economy and Green Finance inquiry,12,12_national wealth_wealth fund_national wealth fund_net zero
+9658,2019-10-15,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+9698,2019-10-22,HMRC Annual Report and Accounts inquiry ,11,11_harra_jim_jim harra_homer
+9738,2019-10-30,Regional Imbalances in the UK Economy inquiry,-1,-1_johnson_greensill_business rates_paul johnson
+156,2020-03-10,Decarbonisation and Green Finance,12,12_national wealth_wealth fund_national wealth fund_net zero
+190,2020-03-16,Spring Budget 2020,7,7_torsten_torsten bell_bell_fiscal
+195,2020-03-17,Spring Budget 2020,3,3_hughes_richard hughes_fiscal_richard
+210,2020-03-18,Spring Budget 2020,15,15_sunak_rishi sunak_rishi_rachel reeves
+250,2020-03-31,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+280,2020-04-08,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+285,2020-04-15,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+284,2020-04-15,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+292,2020-04-21,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+291,2020-04-21,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+315,2020-04-29,Economic impact of coronavirus,-1,-1_johnson_greensill_business rates_paul johnson
+330,2020-05-04,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+396,2020-05-15,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+415,2020-05-20,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+455,2020-06-03,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+533,2020-06-17,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+577,2020-06-24,The Work of the Debt Management Office,18,18_robert stheeman_stheeman_sir robert_robert
+637,2020-07-01,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+671,2020-07-08,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+714,2020-07-13,Appointment of Richard Hughes as Chair of the Office for Budget Responsibility,3,3_hughes_richard hughes_fiscal_richard
+715,2020-07-15,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+755,2020-07-20,Reappointment of Andy Haldane to the Monetary Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+754,2020-07-20,Appointment of Jonathan Hall to the Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+756,2020-07-20,Reappointment of Professor Silvana Tenreyro to the Monetary Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+746,2020-07-22,Appointment of Nikhil Rathi as Chief Executive of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+788,2020-09-01,Tax after coronavirus,25,25_taxes_vat_wealth tax_taxation
+792,2020-09-02,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+892,2020-09-09,Decarbonisation and Green Finance,12,12_national wealth_wealth fund_national wealth fund_net zero
+853,2020-09-15,Tax after coronavirus,25,25_taxes_vat_wealth tax_taxation
+903,2020-09-22,UK Customs Policy,1,1_single market_customs_free trade_professor
+902,2020-09-23,Infrastructure,28,28_national wealth_wealth fund_national wealth fund_sir john
+972,2020-09-30,Decarbonisation and Green Finance,12,12_national wealth_wealth fund_national wealth fund_net zero
+1010,2020-10-06,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+1009,2020-10-07,Tax after coronavirus,25,25_taxes_vat_wealth tax_taxation
+1008,2020-10-07,Tax after coronavirus,25,25_taxes_vat_wealth tax_taxation
+1035,2020-10-13,UK Customs Policy,11,11_harra_jim_jim harra_homer
+1056,2020-10-14,Decarbonisation and Green Finance,12,12_national wealth_wealth fund_national wealth fund_net zero
+1078,2020-10-20,Tax after coronavirus,25,25_taxes_vat_wealth tax_taxation
+1099,2020-10-21,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+1098,2020-10-21,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+1129,2020-11-03,Work of Government Actuary’s Department,21,21_ombudsman_thomas_wayman_caroline wayman
+1148,2020-11-04,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+1167,2020-11-09,Work of the Financial Ombudsman Service,21,21_ombudsman_thomas_wayman_caroline wayman
+1201,2020-11-11,Work of HM Treasury,2,2_scholar_tom scholar_tom_sir tom
+1214,2020-11-16,Decarbonisation and Green Finance,12,12_national wealth_wealth fund_national wealth fund_net zero
+1252,2020-11-18,Tax after coronavirus,25,25_taxes_vat_wealth tax_taxation
+1266,2020-11-23,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+1315,2020-12-01,Spending Review 2020,3,3_hughes_richard hughes_fiscal_richard
+1341,2020-12-02,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+1353,2020-12-07,HMRC Annual Report and Accounts,11,11_harra_jim_jim harra_homer
+1389,2020-12-09,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+1466,2020-12-14,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+1444,2020-12-16,Tax after coronavirus,25,25_taxes_vat_wealth tax_taxation
+1473,2021-01-06,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+1481,2021-01-11,UK’s economic and trading relationship with the EU,1,1_single market_customs_free trade_professor
+1517,2021-01-13,The appointment of John Taylor to the Prudential Regulation Committee,5,5_woods_sam_sam woods_pra
+1516,2021-01-13,The appointment of Antony Jenkins to the Prudential Regulation Committee,5,5_woods_sam_sam woods_pra
+1540,2021-01-18,Tax after coronavirus,25,25_taxes_vat_wealth tax_taxation
+1542,2021-01-20,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+1541,2021-01-20,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+1571,2021-01-25,Economic crime,6,6_crime_economic crime_laundering_money laundering
+1602,2021-01-27,Future of Financial Services,14,14_ai_venture_mcewan_ross mcewan
+1636,2021-02-01,The Financial Conduct Authority’s Regulation of London Capital & Finance plc,-1,-1_johnson_greensill_business rates_paul johnson
+1641,2021-02-03,Budget 2021,7,7_torsten_torsten bell_bell_fiscal
+1692,2021-02-08,The Financial Conduct Authority’s Regulation of London Capital & Finance plc,-1,-1_johnson_greensill_business rates_paul johnson
+1789,2021-02-24,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+1825,2021-03-01,The Financial Conduct Authority’s Regulation of London Capital & Finance plc,-1,-1_johnson_greensill_business rates_paul johnson
+1827,2021-03-08,Budget 2021,3,3_hughes_richard hughes_fiscal_richard
+1838,2021-03-10,Budget 2021,7,7_torsten_torsten bell_bell_fiscal
+1854,2021-03-12,Budget 2021,15,15_sunak_rishi sunak_rishi_rachel reeves
+1926,2021-03-17,Work of National Savings and Investments,12,12_national wealth_wealth fund_national wealth fund_net zero
+1990,2021-03-25,The Financial Conduct Authority’s Regulation of London Capital & Finance plc,-1,-1_johnson_greensill_business rates_paul johnson
+2038,2021-04-19,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+2074,2021-04-21,The Financial Conduct Authority’s Regulation of London Capital & Finance plc,2,2_scholar_tom scholar_tom_sir tom
+2103,2021-04-26,Future of Financial Services,14,14_ai_venture_mcewan_ross mcewan
+2138,2021-04-28,Lessons from Greensill Capital,-1,-1_johnson_greensill_business rates_paul johnson
+2149,2021-05-11,Lessons from Greensill Capital,-1,-1_johnson_greensill_business rates_paul johnson
+2155,2021-05-12,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+2163,2021-05-13,Lessons from Greensill Capital,-1,-1_johnson_greensill_business rates_paul johnson
+2236,2021-05-24,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+2290,2021-05-26,Future of Financial Services,2,2_scholar_tom scholar_tom_sir tom
+2293,2021-05-27,Lessons from Greensill Capital,2,2_scholar_tom scholar_tom_sir tom
+2292,2021-05-27,Lessons from Greensill Capital,2,2_scholar_tom scholar_tom_sir tom
+2319,2021-06-07,Economic impact of coronavirus,4,4_lockdown_hospitality_kate_virus
+2338,2021-06-09,Appointment of Tanya Castell to the Prudential Regulatory Committee,5,5_woods_sam_sam woods_pra
+2339,2021-06-09,Appointment of Carolyn Wilkins to the Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+2349,2021-06-14,Economic crime,6,6_crime_economic crime_laundering_money laundering
+2433,2021-06-23,The work of the Prudential Regulation Authority,5,5_woods_sam_sam woods_pra
+2501,2021-07-05,Committee on COP26: climate change and finance,12,12_national wealth_wealth fund_national wealth fund_net zero
+2532,2021-07-08,Economic crime,6,6_crime_economic crime_laundering_money laundering
+2544,2021-07-12,"Jobs, growth, and productivity after coronavirus",31,31_pandemic_professor_kitty_net zero
+2594,2021-07-19,Appointment of Catherine Mann to the Monetary Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+2593,2021-07-19,Appointment of Sarah Breeden to the Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+2634,2021-07-21,Office for Budget Responsibility Fiscal Risks Report,3,3_hughes_richard hughes_fiscal_richard
+2697,2021-09-08,Bank of England July Financial Stability Report and August Monetary Policy Report,0,0_carney_dr carney_monetary policy_bailey
+2743,2021-09-13,Future of Financial Services,16,16_charlotte_charlotte clark_clark_consumer duty
+3080,2021-09-13,Future of Financial Services,16,16_charlotte_charlotte clark_clark_consumer duty
+2708,2021-09-15,An Equal Recovery,17,17_wheatley_tracey_martin wheatley_mcdermott
+2757,2021-09-20,"Jobs, growth, and productivity after coronavirus",31,31_pandemic_professor_kitty_net zero
+2779,2021-09-22,Economic crime,6,6_crime_economic crime_laundering_money laundering
+2860,2021-10-20,"Jobs, growth, and productivity after coronavirus",31,31_pandemic_professor_kitty_net zero
+2889,2021-10-25,Future of Financial Services,-1,-1_johnson_greensill_business rates_paul johnson
+2969,2021-11-01,Autumn Budget and Spending Review 2021,15,15_sunak_rishi sunak_rishi_rachel reeves
+2923,2021-11-01,Autumn Budget and Spending Review 2021,3,3_hughes_richard hughes_fiscal_richard
+2995,2021-11-08,Autumn Budget and Spending Review 2021,7,7_torsten_torsten bell_bell_fiscal
+2996,2021-11-15,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+3038,2021-11-18,Autumn Budget and Spending Review 2021,-1,-1_johnson_greensill_business rates_paul johnson
+3085,2021-11-24,The future for Mutuals,2,2_scholar_tom scholar_tom_sir tom
+3237,2021-11-29,Economic crime,6,6_crime_economic crime_laundering_money laundering
+3088,2021-11-29,Economic crime,6,6_crime_economic crime_laundering_money laundering
+3132,2021-12-01,The work of the Treasury,2,2_scholar_tom scholar_tom_sir tom
+3141,2021-12-06,Future of Financial Services,14,14_ai_venture_mcewan_ross mcewan
+3177,2021-12-08,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+3183,2021-12-14,"Jobs, growth, and productivity after coronavirus",31,31_pandemic_professor_kitty_net zero
+3196,2021-12-15,Appointment of Professor David Miles to the OBR Budget Responsibility Committee,3,3_hughes_richard hughes_fiscal_richard
+3284,2022-01-12,An Equal Recovery,7,7_torsten_torsten bell_bell_fiscal
+3306,2022-01-17,Future of Financial Services,14,14_ai_venture_mcewan_ross mcewan
+3319,2022-01-19,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+3362,2022-01-31,The cost of living,7,7_torsten_torsten bell_bell_fiscal
+3394,2022-02-02,The work of HMRC,11,11_harra_jim_jim harra_homer
+3419,2022-02-07,"Jobs, growth, and productivity after coronavirus",31,31_pandemic_professor_kitty_net zero
+10123,2022-02-09,The work of the Financial Ombudsman Service,21,21_ombudsman_thomas_wayman_caroline wayman
+3464,2022-02-21,Future of Financial Services,14,14_ai_venture_mcewan_ross mcewan
+9785,2022-02-28,The UK's tax burden,13,13_vat_taxes_knight_relief
+9784,2022-02-28,The UK's tax burden,13,13_vat_taxes_knight_relief
+9943,2022-03-02,Future of Financial Services,2,2_scholar_tom scholar_tom_sir tom
+9834,2022-03-07,Russia: effective economic sanctions,22,22_sanctions_russia_russian_oil
+9946,2022-03-14,Russia: effective economic sanctions,22,22_sanctions_russia_russian_oil
+9956,2022-03-16,The Swift Review,17,17_wheatley_tracey_martin wheatley_mcdermott
+10022,2022-03-28,Spring Statement 2022,15,15_sunak_rishi sunak_rishi_rachel reeves
+10021,2022-03-28,Spring Statement 2022,3,3_hughes_richard hughes_fiscal_richard
+10055,2022-03-30,Spring Statement 2022,7,7_torsten_torsten bell_bell_fiscal
+10134,2022-04-25,Russia: effective economic sanctions,22,22_sanctions_russia_russian_oil
+10211,2022-05-11,"Jobs, growth, and productivity after coronavirus",31,31_pandemic_professor_kitty_net zero
+10215,2022-05-16,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+10320,2022-05-25,The work of the Payment Systems Regulator,23,23_hannah_nixon_hannah nixon_psr
+10638,2022-06-06,The cost of living,15,15_sunak_rishi sunak_rishi_rachel reeves
+10380,2022-06-08,The cost of living,12,12_national wealth_wealth fund_national wealth fund_net zero
+10429,2022-06-15,The work of the Financial Regulators Complaints Commissioner,23,23_hannah_nixon_hannah nixon_psr
+10468,2022-06-22,Russia: effective economic sanctions,22,22_sanctions_russia_russian_oil
+10474,2022-06-27,The venture capital market,14,14_ai_venture_mcewan_ross mcewan
+10522,2022-06-29,Appointment of Dr Swati Dhingra to the Monetary Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+10572,2022-07-11,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+10593,2022-07-13,Office for Budget Responsibility Fiscal Risks & Sustainability Report,3,3_hughes_richard hughes_fiscal_richard
+10676,2022-09-07,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+10698,2022-09-22,The cost of living,-1,-1_johnson_greensill_business rates_paul johnson
+11384,2022-10-19,"Appointment of David Roberts as Chair of Court, Bank of England",0,0_carney_dr carney_monetary policy_bailey
+11373,2022-10-19,Autumn 2022 Fiscal Events,15,15_sunak_rishi sunak_rishi_rachel reeves
+11568,2022-10-26,Autumn 2022 Fiscal Events,18,18_robert stheeman_stheeman_sir robert_robert
+11536,2022-11-02,The mortgage market,29,29_mortgages_stuart_lenders_charlie
+11498,2022-11-07,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+11549,2022-11-14,The crypto-asset industry,32,32_crypto_blockchain_bitcoin_taylor
+11551,2022-11-16,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+11589,2022-11-21,Autumn 2022 Fiscal Events,7,7_torsten_torsten bell_bell_fiscal
+11596,2022-11-22,Autumn 2022 Fiscal Events,3,3_hughes_richard hughes_fiscal_richard
+11933,2022-11-23,Autumn 2022 Fiscal Events,-1,-1_johnson_greensill_business rates_paul johnson
+12425,2022-12-07,The crypto-asset industry,32,32_crypto_blockchain_bitcoin_taylor
+12424,2022-12-07,The crypto-asset industry,2,2_scholar_tom scholar_tom_sir tom
+12428,2022-12-12,The work of the Treasury,2,2_scholar_tom scholar_tom_sir tom
+12453,2022-12-14,Appointment of Ashley Alder as Chair of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+12468,2022-12-19,Tax Reliefs,13,13_vat_taxes_knight_relief
+12504,2023-01-10,The crypto-asset industry,2,2_scholar_tom scholar_tom_sir tom
+12520,2023-01-16,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+12568,2023-01-24,Appointment of Randall Kroszner to the Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+12624,2023-01-31,The venture capital market,14,14_ai_venture_mcewan_ross mcewan
+12650,2023-02-01,The Edinburgh Reforms,0,0_carney_dr carney_monetary policy_bailey
+12667,2023-02-07,Retail Banks,29,29_mortgages_stuart_lenders_charlie
+12672,2023-02-09,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+12726,2023-02-28,The crypto-asset industry,0,0_carney_dr carney_monetary policy_bailey
+12764,2023-03-01,Tax Reliefs,13,13_vat_taxes_knight_relief
+12790,2023-03-07,The work of the Prudential Regulation Authority,5,5_woods_sam_sam woods_pra
+12808,2023-03-08,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+12829,2023-03-14,The work of the Financial Ombudsman Service,21,21_ombudsman_thomas_wayman_caroline wayman
+12858,2023-03-21,Budget 2023,7,7_torsten_torsten bell_bell_fiscal
+12872,2023-03-22,Budget 2023,3,3_hughes_richard hughes_fiscal_richard
+12933,2023-03-28,Silicon Valley Bank UK,0,0_carney_dr carney_monetary policy_bailey
+12945,2023-03-29,Budget 2023,15,15_sunak_rishi sunak_rishi_rachel reeves
+13014,2023-04-18,Quantitative tightening,-1,-1_johnson_greensill_business rates_paul johnson
+13034,2023-04-19,The work of the Valuation Office Agency,-1,-1_johnson_greensill_business rates_paul johnson
+13085,2023-04-26,Stock market listings,2,2_scholar_tom scholar_tom_sir tom
+13180,2023-05-17,Tax Reliefs,-1,-1_johnson_greensill_business rates_paul johnson
+13163,2023-05-18,Quantitative tightening,0,0_carney_dr carney_monetary policy_bailey
+13216,2023-05-23,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+13199,2023-05-24,The venture capital market,-1,-1_johnson_greensill_business rates_paul johnson
+13252,2023-06-06,Intergenerational inequality and social mobility,7,7_torsten_torsten bell_bell_fiscal
+13270,2023-06-07,Insurance,16,16_charlotte_charlotte clark_clark_consumer duty
+13289,2023-06-13,Appointment of Megan Greene to the Monetary Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+13300,2023-06-14,Tax Reliefs,-1,-1_johnson_greensill_business rates_paul johnson
+13396,2023-06-27,The work of the Payment Systems Regulator,23,23_hannah_nixon_hannah nixon_psr
+13445,2023-07-04,Regional imbalances,-1,-1_johnson_greensill_business rates_paul johnson
+13467,2023-07-05,Inflation,0,0_carney_dr carney_monetary policy_bailey
+13504,2023-07-11,Mortgages,29,29_mortgages_stuart_lenders_charlie
+13541,2023-07-19,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+13586,2023-09-05,Appointment of Tom Josephs to the Budget Responsibility Committee,3,3_hughes_richard hughes_fiscal_richard
+13582,2023-09-06,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+13617,2023-09-12,"Appointment of Sarah Breeden as Deputy Governor for Financial Stability, Bank of England",0,0_carney_dr carney_monetary policy_bailey
+13688,2023-10-17,Sexism in the City,19,19_gender_pay gap_diversity_gender pay
+13689,2023-10-18,The work of HMRC,11,11_harra_jim_jim harra_homer
+13785,2023-11-08,SME Finance,14,14_ai_venture_mcewan_ross mcewan
+13808,2023-11-14,Infrastructure,28,28_national wealth_wealth fund_national wealth fund_sir john
+13820,2023-11-15,Sexism in the City,19,19_gender_pay gap_diversity_gender pay
+13846,2023-11-21,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+13891,2023-11-28,Autumn Statement 2023,7,7_torsten_torsten bell_bell_fiscal
+13890,2023-11-28,Autumn Statement 2023,-1,-1_johnson_greensill_business rates_paul johnson
+13896,2023-11-29,Autumn Statement 2023,-1,-1_johnson_greensill_business rates_paul johnson
+13962,2023-12-06,SME Finance,14,14_ai_venture_mcewan_ross mcewan
+13996,2023-12-12,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+14007,2023-12-13,Sexism in the City,19,19_gender_pay gap_diversity_gender pay
+14058,2024-01-09,Appointment of Nathanaël Benjamin to the Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+14080,2024-01-10,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+14100,2024-01-16,Debt Advice Provision,18,18_robert stheeman_stheeman_sir robert_robert
+14099,2024-01-16,Debt Advice Provision,18,18_robert stheeman_stheeman_sir robert_robert
+14121,2024-01-17,Sexism in the City,19,19_gender_pay gap_diversity_gender pay
+14120,2024-01-17,Sexism in the City,19,19_gender_pay gap_diversity_gender pay
+14145,2024-01-23,SME Finance,21,21_ombudsman_thomas_wayman_caroline wayman
+14144,2024-01-23,SME Finance,21,21_ombudsman_thomas_wayman_caroline wayman
+14163,2024-01-24,The work of the Treasury,2,2_scholar_tom scholar_tom_sir tom
+14191,2024-01-30,The work of the Payment Systems Regulator,23,23_hannah_nixon_hannah nixon_psr
+14262,2024-02-06,Work of UK Government Investments,2,2_scholar_tom scholar_tom_sir tom
+14263,2024-02-07,The work of the Prudential Regulation Authority,5,5_woods_sam_sam woods_pra
+14315,2024-02-20,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+14332,2024-02-21,Economic Forecasting,0,0_carney_dr carney_monetary policy_bailey
+14353,2024-02-27,The work of the Financial Ombudsman Service,21,21_ombudsman_thomas_wayman_caroline wayman
+14395,2024-02-28,SME Finance,2,2_scholar_tom scholar_tom_sir tom
+14451,2024-03-12,Budget 2024,-1,-1_johnson_greensill_business rates_paul johnson
+14450,2024-03-12,Budget 2024,3,3_hughes_richard hughes_fiscal_richard
+14456,2024-03-13,Budget 2024,-1,-1_johnson_greensill_business rates_paul johnson
+14541,2024-03-20,Retail Banks,29,29_mortgages_stuart_lenders_charlie
+14615,2024-04-16,"Appointment of Clare Lombardelli as Deputy Governor for Monetary Policy, Bank of England",0,0_carney_dr carney_monetary policy_bailey
+14654,2024-04-17,Insurance,16,16_charlotte_charlotte clark_clark_consumer duty
+14653,2024-04-17,Insurance,16,16_charlotte_charlotte clark_clark_consumer duty
+14655,2024-04-17,Insurance,16,16_charlotte_charlotte clark_clark_consumer duty
+14682,2024-04-24,The work of HMRC,11,11_harra_jim_jim harra_homer
+14720,2024-04-30,Are the UK’s Russian financial sanctions working?,22,22_sanctions_russia_russian_oil
+14778,2024-05-09,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+14818,2024-05-14,Are the UK’s Russian financial sanctions working?,22,22_sanctions_russia_russian_oil
+14817,2024-05-14,Are the UK’s Russian financial sanctions working?,22,22_sanctions_russia_russian_oil
+14819,2024-05-15,Bernanke Review of Bank of England Forecasting,0,0_carney_dr carney_monetary policy_bailey
+14867,2024-05-21,Appointment of Liz Oakes to the Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+14905,2024-05-22,Are the UK’s Russian financial sanctions working?,22,22_sanctions_russia_russian_oil
+14963,2024-11-05,Budget 2024,3,3_hughes_richard hughes_fiscal_richard
+14964,2024-11-05,Budget 2024,12,12_national wealth_wealth fund_national wealth fund_net zero
+14971,2024-11-06,Budget 2024,15,15_sunak_rishi sunak_rishi_rachel reeves
+15008,2024-11-19,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+15048,2024-11-26,Work of the Office of Financial Sanctions Implementation,22,22_sanctions_russia_russian_oil
+15044,2024-11-27,Work of HM Revenue and Customs,11,11_harra_jim_jim harra_homer
+15069,2024-12-03,Work of the Financial Conduct Authority,16,16_charlotte_charlotte clark_clark_consumer duty
+15068,2024-12-03,Work of the Financial Conduct Authority,16,16_charlotte_charlotte clark_clark_consumer duty
+15093,2024-12-04,Acceptance of Cash,-1,-1_johnson_greensill_business rates_paul johnson
+15109,2024-12-10,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+15163,2024-12-17,Acceptance of Cash,-1,-1_johnson_greensill_business rates_paul johnson
+15238,2025-01-15,Work of HM Revenue and Customs,-1,-1_johnson_greensill_business rates_paul johnson
+15300,2025-01-28,Acceptance of Cash,2,2_scholar_tom scholar_tom_sir tom
+15309,2025-01-29,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+15338,2025-02-04,Economic Statistics,-1,-1_johnson_greensill_business rates_paul johnson
+15379,2025-02-11,Work of Financial Ombudsman Service,21,21_ombudsman_thomas_wayman_caroline wayman
+15380,2025-02-12,Work of HM Treasury,2,2_scholar_tom scholar_tom_sir tom
+15439,2025-02-26,Lifetime ISA,-1,-1_johnson_greensill_business rates_paul johnson
+15438,2025-02-26,Lifetime ISA,-1,-1_johnson_greensill_business rates_paul johnson
+15477,2025-03-05,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+15490,2025-03-11,The appointment of Andrea Enria to the Prudential Regulation Committee,5,5_woods_sam_sam woods_pra
+15491,2025-03-11,The appointment of David Soanes to the Prudential Regulation Committee,5,5_woods_sam_sam woods_pra
+15527,2025-03-12,Work of the Payment Systems Regulator,23,23_hannah_nixon_hannah nixon_psr
+15542,2025-03-18,The appointment of Niamh Moloney to the Prudential Regulation Committee,5,5_woods_sam_sam woods_pra
+15567,2025-03-19,Appointment of Ric Lewis as Chair of the Crown Estate,5,5_woods_sam_sam woods_pra
+15605,2025-03-25,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+15665,2025-04-01,Spring Statement 2025,7,7_torsten_torsten bell_bell_fiscal
+15664,2025-04-01,Spring Statement 2025,3,3_hughes_richard hughes_fiscal_richard
+15681,2025-04-02,Spring Statement 2025,15,15_sunak_rishi sunak_rishi_rachel reeves
+15775,2025-04-23,Lifetime ISA,-1,-1_johnson_greensill_business rates_paul johnson
+16690,2025-04-29,Work of the Prudential Regulation Authority,5,5_woods_sam_sam woods_pra
+15799,2025-04-30,Finfluencers,-1,-1_johnson_greensill_business rates_paul johnson
+15845,2025-05-07,AI in financial services,14,14_ai_venture_mcewan_ross mcewan
+15920,2025-05-14,National Wealth Fund,28,28_national wealth_wealth fund_national wealth fund_sir john
+15926,2025-05-20,Banks and building societies,29,29_mortgages_stuart_lenders_charlie
+15956,2025-05-21,Banks and building societies,29,29_mortgages_stuart_lenders_charlie
+15955,2025-05-21,Banks and building societies,29,29_mortgages_stuart_lenders_charlie
+15990,2025-06-03,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+16014,2025-06-04,Work of HM Revenue and Customs,11,11_harra_jim_jim harra_homer
+16030,2025-06-10,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+16029,2025-06-10,Reappointment of Nikhil Rathi as Chief Executive of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+16089,2025-06-18,Spending Review 2025,7,7_torsten_torsten bell_bell_fiscal
+16107,2025-06-18,National Wealth Fund,12,12_national wealth_wealth fund_national wealth fund_net zero
+16108,2025-06-18,National Wealth Fund,12,12_national wealth_wealth fund_national wealth fund_net zero
+16109,2025-06-18,National Wealth Fund,12,12_national wealth_wealth fund_national wealth fund_net zero
+16984,2025-06-24,AI in financial services,14,14_ai_venture_mcewan_ross mcewan
+16178,2025-06-25,Spending Review 2025,15,15_sunak_rishi sunak_rishi_rachel reeves
+16225,2025-07-01,National Wealth Fund,28,28_national wealth_wealth fund_national wealth fund_sir john
+16224,2025-07-01,National Wealth Fund,28,28_national wealth_wealth fund_national wealth fund_sir john
+16280,2025-07-08,Insurance companies,16,16_charlotte_charlotte clark_clark_consumer duty
+16321,2025-07-15,Reappointment of Richard Hughes as Chair of the Office for Budget Responsibility,3,3_hughes_richard hughes_fiscal_richard
+16320,2025-07-15,Office for Budget Responsibility Fiscal Risks and Sustainability Report,3,3_hughes_richard hughes_fiscal_richard
+16381,2025-09-03,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+16417,2025-09-09,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+16747,2025-10-14,Budget 2025,7,7_torsten_torsten bell_bell_fiscal
+16748,2025-10-15,AI in financial services,-1,-1_johnson_greensill_business rates_paul johnson
+16554,2025-10-22,Appointment of Stephen Blyth to the Financial Policy Committee,0,0_carney_dr carney_monetary policy_bailey
+16749,2025-10-28,Budget 2025,7,7_torsten_torsten bell_bell_fiscal
+16600,2025-10-29,Budget 2025,7,7_torsten_torsten bell_bell_fiscal
+16750,2025-11-04,AI in financial services,2,2_scholar_tom scholar_tom_sir tom
+16753,2025-11-05,Budget 2025,15,15_sunak_rishi sunak_rishi_rachel reeves
+16752,2025-11-12,Budget 2025,-1,-1_johnson_greensill_business rates_paul johnson
+16746,2025-11-18,Cryptocurrency,32,32_crypto_blockchain_bitcoin_taylor
+16812,2025-12-02,Budget 2025,3,3_hughes_richard hughes_fiscal_richard
+16847,2025-12-03,Budget 2025,7,7_torsten_torsten bell_bell_fiscal
+16981,2025-12-09,Bank of England Monetary Policy Reports,0,0_carney_dr carney_monetary policy_bailey
+16865,2025-12-10,Budget 2025,15,15_sunak_rishi sunak_rishi_rachel reeves
+16924,2025-12-16,Work of the Financial Conduct Authority,10,10_nikhil_rathi_nikhil rathi_alder
+17122,2026-01-13,Work of HM Revenue and Customs,11,11_harra_jim_jim harra_homer
+17186,2026-01-20,Bank of England Financial Stability Reports,0,0_carney_dr carney_monetary policy_bailey
+17071,2026-01-21,Work of the Prudential Regulation Authority,5,5_woods_sam_sam woods_pra
+17111,2026-01-28,Mutuals,2,2_scholar_tom scholar_tom_sir tom
+17136,2026-02-03,Financial Inclusion Strategy,18,18_robert stheeman_stheeman_sir robert_robert
+17162,2026-02-09,Work of the Payment Systems Regulator,23,23_hannah_nixon_hannah nixon_psr
+17187,2026-02-11,Business rates,-1,-1_johnson_greensill_business rates_paul johnson

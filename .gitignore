@@ -1,0 +1,21 @@
+# Transcript data (regenerate with tsc_extract.py)
+tsc_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# IDE
+.vscode/
+.idea/
